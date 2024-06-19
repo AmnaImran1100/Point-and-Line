@@ -1,0 +1,14 @@
+C:\University\Semester2\Week 5\PointAndLine\PointAndLine\obj\Debug\PointAndLine.csproj.AssemblyReference.cache
+C:\University\Semester2\Week 5\PointAndLine\PointAndLine\obj\Debug\PointAndLine.csproj.CoreCompileInputs.cache
+C:\University\Semester2\Week 5\PointAndLine\PointAndLine\bin\Debug\PointAndLine.exe.config
+C:\University\Semester2\Week 5\PointAndLine\PointAndLine\bin\Debug\PointAndLine.exe
+C:\University\Semester2\Week 5\PointAndLine\PointAndLine\bin\Debug\PointAndLine.pdb
+C:\University\Semester2\Week 5\PointAndLine\PointAndLine\obj\Debug\PointAndLine.exe
+C:\University\Semester2\Week 5\PointAndLine\PointAndLine\obj\Debug\PointAndLine.pdb
+D:\University\Semester2\Week 5\PointAndLine\PointAndLine\bin\Debug\PointAndLine.exe.config
+D:\University\Semester2\Week 5\PointAndLine\PointAndLine\bin\Debug\PointAndLine.exe
+D:\University\Semester2\Week 5\PointAndLine\PointAndLine\bin\Debug\PointAndLine.pdb
+D:\University\Semester2\Week 5\PointAndLine\PointAndLine\obj\Debug\PointAndLine.csproj.AssemblyReference.cache
+D:\University\Semester2\Week 5\PointAndLine\PointAndLine\obj\Debug\PointAndLine.csproj.CoreCompileInputs.cache
+D:\University\Semester2\Week 5\PointAndLine\PointAndLine\obj\Debug\PointAndLine.exe
+D:\University\Semester2\Week 5\PointAndLine\PointAndLine\obj\Debug\PointAndLine.pdb
